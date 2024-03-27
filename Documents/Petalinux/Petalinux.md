@@ -33,4 +33,7 @@ cat /sys/class/gpio/gpio-number/value
 ## References
 
 Petalinux GPIOS: http://en.ica123.com/implementing-linux-gpio-input-and-output/
+
 Petalinux UIOs: https://www.hackster.io/Roy_Messinger/gpio-and-petalinux-embedded-linux-yocto-based-c71773
+
+
