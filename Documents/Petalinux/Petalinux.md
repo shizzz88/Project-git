@@ -30,3 +30,6 @@ cat /sys/class/gpio/gpio-number/value
 ``
 
 
+## References
+
+Petalinux GPIOS: http://en.ica123.com/implementing-linux-gpio-input-and-output/
