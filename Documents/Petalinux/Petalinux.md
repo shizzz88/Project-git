@@ -1,21 +1,21 @@
 # Petalinux create project
   1) Go to the installed petalinux folder where the file 'settings.sh' is located and write the following command in order the set the environment varialble to petalinux:
 
- ``
-source settings.sh
-``
+   ``
+    source settings.sh
+  ``
 
   2) create an empty project by writing the following command:
 
-   ``
+     ``
      petalinux-create -t project --template zynqMP --name <project-name>
-  ``
+     ``
 
 4) configure the petalinux hw settings by using the following command:
 
-  ``
-  petalinux-config --get-hw-description <path to the .xsa file>
-  ``
+    ``
+    petalinux-config --get-hw-description <path to the .xsa file>
+    ``
 
   
 # Petaliunx GPIOs
