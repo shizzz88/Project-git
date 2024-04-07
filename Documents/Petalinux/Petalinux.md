@@ -17,7 +17,9 @@
     petalinux-config --get-hw-description <path to the .xsa file>
     ``
 
-  
+![PMOD Pinouts](KV260_PMOD_Pintouts.png] 
+
+
 # Petaliunx GPIOs
 
 GPIOs in petalinux can be found in the following location:
