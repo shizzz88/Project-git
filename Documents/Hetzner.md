@@ -5,3 +5,4 @@ Now login via the Terminal on the windows. It should create three lines in the k
 ssh-ed25519
 ssh-rsa
 ecdsa-sha2-nistp256
+In order to add another SSH-Key to the existing Server, you have to modify the authorized_keys file in .ssh folder in the server. Simply generate the SSH-key locally using ssh-keygen -t ed25519. Add this key either by opening the server via SSH or you can use the integrated console in the server page on Hetzner. Use any text editor like nano and paste the SSH-key in a new line. save the file, roboot the server and connect via SSH.
