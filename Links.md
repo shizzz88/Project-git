@@ -5,6 +5,6 @@ __Subversion Installation__
 
 # Nextcloud installation on Ubuntu server guide:
 
-https://mailserverguru.com/install-nextcloud-on-ubuntu-24-04-lts/
+`https://mailserverguru.com/install-nextcloud-on-ubuntu-24-04-lts/`
 
 
